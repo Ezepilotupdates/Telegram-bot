@@ -1,17 +1,10 @@
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Virtual environments
 venv/
 env/
-
-# Local environment variables
 .env
-
-# IDE / editor settings
 .vscode/
 .idea/
 *.swp
