@@ -1,0 +1,5 @@
+---
+
+✅ With these 4 files (`requirements.txt`, `Procfile`, `.gitignore`, `README.md`) + your `bot.py`, your bot is ready for **Render deployment**.  
+
+👉 Do you want me to also generate a **`.env.example`** file template (safe for GitHub, no secrets) so you don’t forget what variables to set?
