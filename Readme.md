@@ -1,6 +1,6 @@
 # 🚀 Telegram Bot (Group + Channel Management)
 
-A Telegram bot built with **Flask** and **Webhook**, deployed on **Railway**.  
+A Telegram bot built with **Flask** and **Webhook**, deployed on **Render**.  
 The bot manages links in a group and forwards deleted messages to a channel.
 
 ---
@@ -8,8 +8,8 @@ The bot manages links in a group and forwards deleted messages to a channel.
 ## ✨ Features
 - ✅ Only the **admin** can post links.  
 - 🚫 Non-admin links are **deleted automatically**.  
-- 📩 Deleted messages are **forwarded to the channel** for record-keeping.  
-- 🌍 Runs on **Railway** with environment variables (no hardcoding).  
+- 📩 Deleted messages are **forwarded to the channel**.  
+- 🌍 Runs on **Render** with environment variables (no hardcoding).  
 
 ---
 
